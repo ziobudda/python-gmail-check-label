@@ -1,3 +1,5 @@
+[All of this for only 1.40€ of Claude API]
+
 # Gmail Label Checker
 
 A simple Python tool that connects to Gmail using OAuth2 credentials to check if a specific label exists and optionally create it if it doesn't.
