@@ -1,0 +1,12 @@
+include README.md
+include LICENSE
+include requirements.txt
+include credentials-sample.json
+include check_gmail_label.sh
+include check_gmail_label.bat
+include list_all_labels.py
+include list_all_labels.sh
+include list_all_labels.bat
+include delete_label.py
+include delete_label.sh
+include delete_label.bat
